@@ -7,7 +7,7 @@ python detector.py
 # realized
 - Image captcha gap identification
 # unrealized
-- 人脸识别
-- 文字识别
+- Face recognition
+- Character recognition
 # PS
 There are test sets in the directory
