@@ -1,0 +1,1 @@
+{"path":"D:\\workspace\\python\\deep learning\\project_work\\captcha_recg\\data\\imgType1\\image (447).jpg","outputs":{"object":[{"name":"mask","bndbox":{"xmin":179,"ymin":26,"xmax":236,"ymax":81}}]},"time_labeled":1588064737951,"labeled":true,"size":{"width":320,"height":160,"depth":3}}
